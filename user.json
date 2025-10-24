@@ -32,5 +32,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761296094873
+  },
+  {
+    "username": "IndraStore",
+    "password": "1",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761296959332
   }
 ]
