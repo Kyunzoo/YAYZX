@@ -39,5 +39,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761296959332
+  },
+  {
+    "username": "Ytta",
+    "password": "1",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761297171429
   }
 ]
