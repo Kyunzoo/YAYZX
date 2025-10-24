@@ -4,5 +4,12 @@
     "password": "YAYZX",
     "role": "owner",
     "expired": "2025-12-31T23:59:59.000Z"
+  },
+  {
+    "username": "zyy",
+    "password": "1",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761294842219
   }
 ]
